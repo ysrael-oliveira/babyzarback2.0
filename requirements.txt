@@ -1,0 +1,8 @@
+Flask==3.1.0
+Flask-Cors==5.0.0
+flask-openapi3==4.0.3
+flask-openapi3[swagger]
+Flask-SQLAlchemy==3.1.1
+pydantic==2.10.3
+SQLAlchemy==2.0.36
+SQLAlchemy-Utils==0.41.2
